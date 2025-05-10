@@ -1,0 +1,5 @@
+Account,Amount,Category,Date,Description
+"ACC5555555","40000","Freelance","2025-05-01","Web development"
+"ACC5555555","-3500","Food","2025-05-02","Swiggy order"
+"ACC5555555","-10000","Investment","2025-05-03","Stock purchase"
+"ACC5555555","-2500","Books","2025-05-04","Technical books"

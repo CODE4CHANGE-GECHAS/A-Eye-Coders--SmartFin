@@ -1,0 +1,8 @@
+Account,Amount,Category,Date,Description
+"ACC1234567","-9220.5","Groceries","2025-05-01","Walmart"
+"ACC1234567","150500","Salary","2025-05-02","Monthly paycheck"
+"ACC1234567","-75","Utilities","2025-05-03","Electric bill"
+"ACC1234567","-12000","Entertainment","2025-05-04","Netflix"
+"ACC1234567","-9000","Transport","2025-05-05","Gas refill"
+"ACC1234567","-7500.25","Dining","2025-05-06","Restaurant dinner"
+"ACC1234567","-35500.25","childrenExpenses","2025-05-06","College stuff"
